@@ -226,7 +226,7 @@ def Banner():
 			subtitle=f"[bold #FF00D4]* <[bold purple][underline]{wkt}[bold #FF00D4][/underline]> *",
 			style=f"bold purple",
 		)
-	)
+        )   
 	def Main_Menu():
 		)
 	Bersih(
