@@ -227,7 +227,7 @@ def Banner():
 			style=f"bold purple",
 		)
 	)
-		Login_Dulu(
+	def Main_Menu():
 		)
 	Bersih(
 		)
